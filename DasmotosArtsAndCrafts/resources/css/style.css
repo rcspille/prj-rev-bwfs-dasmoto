@@ -1,0 +1,60 @@
+/*############################################
+############## FONT STYLES ###################
+############################################*/
+
+html{
+  font-family: Helvetica, sans-serif;
+}
+
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+/*##############################################
+############ FOREGROUND COLOR STYLES ###########
+##############################################*/
+
+h1{
+  color: khaki;
+}
+
+h2{
+  color: white;
+}
+
+.blue{
+  color: blue;
+}
+
+/*###############################################
+########### BACKGROUND STYLES ###################
+###############################################*/
+
+.mediumSpringGreen{
+  background-color: mediumspringgreen;
+}
+
+.lightCoral{
+  background-color: lightcoral;
+}
+
+.skyBlue{
+  background-color: skyblue;
+}
+
+.bg-pattern{
+  background-image: url("../img/pattern.jpeg");
+}
